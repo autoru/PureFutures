@@ -6,8 +6,6 @@
 //  Copyright (c) 2015 Victor Shamanov. All rights reserved.
 //
 
-import protocol Result.ResultType
-
 public protocol FutureType: DeferredType {
     
     typealias Value: ResultType

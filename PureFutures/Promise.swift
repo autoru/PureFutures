@@ -6,9 +6,6 @@
 //  Copyright (c) 2015 Victor Shamanov. All rights reserved.
 //
 
-import enum Result.Result
-import protocol Result.ResultType
-
 /**
 
     A mutable container for the `Future`

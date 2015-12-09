@@ -9,7 +9,6 @@
 import XCTest
 
 import PureFutures
-import enum Result.Result
 
 class FutureTests: XCTestCase {
     

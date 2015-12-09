@@ -7,7 +7,6 @@
 //
 
 import typealias Foundation.NSTimeInterval
-import enum Result.Result
 
 // MARK: - Operators
 

@@ -9,10 +9,6 @@
 import typealias Foundation.NSTimeInterval
 import class Foundation.NSError
 
-import enum Result.Result
-import protocol Result.ResultType
-import func Result.materialize
-
 // MARK:- future creation function
 
 /**
